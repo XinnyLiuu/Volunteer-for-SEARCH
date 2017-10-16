@@ -2,6 +2,7 @@
 - This has been forked from Team 3's private repo.
 - Web app that is built to address the challenge's of SEARCH Homeless Services.
 - Allows users to sign in with Google OAuth, find events related to SEARCH nearby, see SEARCH's recent social media updates ... **all built within the 24 hours.**
+- **node_modules and bower_components not included due to bypass heroku dependency restrictions**
 
 1. To-Do
 - Finish member profile.
